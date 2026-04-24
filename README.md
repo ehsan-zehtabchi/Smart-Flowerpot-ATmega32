@@ -2,8 +2,6 @@
 
 Designed and implemented an ATmega32-based smart flowerpot controller integrating analog sensor acquisition, real-time LCD monitoring, automatic lighting control, temperature regulation, and PWM-based irrigation control for embedded systems learning and hardware prototyping.
 
-![Schematic](smart_flowerpot_controller_schematic_diagram.png)
-
 ## Features
 
 - ATmega32-based embedded control system
@@ -115,4 +113,4 @@ These values depend on the sensor type, soil type, and probe placement.
 
 ## Author
 
-Designed and implemented as an AVR embedded systems project based on the ATmega32 platform.
+Designed and implemented as an AVR embedded systems project based on the ATmega32 platform by Ehsan Zehtabchi.
